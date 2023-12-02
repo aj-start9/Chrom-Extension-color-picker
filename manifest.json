@@ -1,0 +1,13 @@
+{
+    "name": "Color Picker",
+    "description": "A color picker extension",
+    "version": "0.0.1",
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "permissions": [
+        "activeTab",
+        "scripting"
+    ]
+}
